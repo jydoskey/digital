@@ -1,0 +1,56 @@
+The array includes but not limited to:
+Bespoke Application Development
+Corporate Mail Services
+(Enterprise Messaging -Exchange Mail Server)
+Unified Communication (Interactive Messaging,
+Live Meeting, Enterprise Voice etc.)
+Datacenter Management
+Power Monitoring System
+Document Management
+Business Intelligence Solutions
+Customer Relationship Management
+(Microsoft Dynamics solution)
+Microsoft Office
+Threat Management Gateway
+Antivirus and Anti-spam
+Human Capital Management System
+Payroll System
+Insurance Management System
+Fleet Management Solutions
+Mobile Application Development
+Voice Over IP Solution
+IP PBX System
+Network Monitoring Solution
+
+
+
+
+<div class="one-third last">
+<h2>What sets us apart</h2>
+<div class="accordion" rel="1">
+<div class="accordion-group">
+<h3 class="accordion-title"><span></span>Our Vision</h3>
+<div class="accordion-content" style="display: none;">To become one of the top 5 ICT solutions provider in Africa by 2026.</div>
+</div>
+<div class="accordion-group">
+<h3 class="accordion-title"><span></span>Our Mission</h3>
+<div class="accordion-content" style="display: none;">We provide convenient and rewarding ICT Solutions for everyday user experience by exploring hidden opportunities and leveraging innovation.</div>
+</div>
+<div class="accordion-group">
+<h3 class="accordion-title"><span></span>Our Core Values</h3>
+<div class="accordion-content" style="display: none;">-Faith<br>
+-Integrity<br>
+-Innovation<br>
+-Teamwork<br>
+-Excellence<br>
+-Empathy</div>
+</div>
+<div class="accordion-group">
+<h3 class="accordion-title"><span></span>Our Promise</h3>
+<div class="accordion-content" style="display: none;">-Value<br>
+-Quality<br>
+-Promptness<br>
+-Service Excellence</div>
+</div>
+</div>
+</div>
